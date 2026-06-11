@@ -223,8 +223,7 @@
 
   function animate() {
 
-    // ALTERAÇÃO PRINCIPAL:
-    // preto -> branco acinzentado
+ 
 
     ctx.fillStyle = "#F4F5F3";
 
